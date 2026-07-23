@@ -137,10 +137,6 @@ Aws-Eks-Cluster/
 
 # Project Screenshots
 
-## Architecture Diagram
-
-![Architecture](diagrams/architecture.png)
-
 ---
 
 ## Amazon EKS Cluster
@@ -151,13 +147,13 @@ Aws-Eks-Cluster/
 
 ## Managed Node Group
 
-![Node Groups](screenshots/node-groups.jpg)
+![Node Groups](screenshots/node groups.jpg)
 
 ---
 
 ## Compute Nodes
 
-![Compute Nodes](screenshots/compute-nodes.jpg)
+![Compute Nodes](screenshots/compute nodes.jpg)
 
 ---
 
